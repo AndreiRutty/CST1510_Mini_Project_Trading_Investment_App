@@ -1,0 +1,52 @@
+Golden Token 0.008944 
+Silver Token 0.07067 
+Bitcoin 29566.14
+Ethereum 1879.24
+Tether 1.00
+XRP 0.7161
+BNB 242.47
+USD Coin 0.9999
+Dogecoin 0.07877
+Cardano 0.3122
+Solana 25.23
+TRON 0.0827
+Polygon 0.733
+Litecoin 91.45
+Polkadot 5.29
+Bitcoin Cash 247.53
+Toncoin 1.36
+Shiba Inu 0.000007896
+Avalanche 13.32
+Dai 1.00
+Chainlink 7.98
+Stellar 0.16
+Binance USD 1.00
+UNUS SED LEO 3.97
+Uniswap 5.94
+Cosmos 9.03
+Monero 163.96
+TrueUSD 1.00
+Ethereum Classic 18.31
+OKB 43.30
+Filecoin 4.38
+Internet Computer 4.14
+Mantle 0.5348
+Hedera 0.05316
+Lido DAO Token 1.94
+Cronos 0.05911
+Aptos 7.10
+Arbitrum 1.20
+VeChain 0.01871
+NEAR Protocol 1.38
+Quant 103.77
+Maker 1265.32
+Apricot Finance 7.10
+Aave 74.22
+Optimism 1.53
+The Graph 0.1131
+Frax 0.9996
+Algorand 0.1121
+Axie Infinity 6.10
+XDC Network 0.0604
+MultiversX 32.89
+Stacks 0.6059
